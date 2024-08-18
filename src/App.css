@@ -1,0 +1,9 @@
+html{
+  direction: rtl;
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+}
+.app-container{
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
